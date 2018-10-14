@@ -1,0 +1,1 @@
+I am replicating the Google UK homepage to demonstrate HTML and CSS skills.
